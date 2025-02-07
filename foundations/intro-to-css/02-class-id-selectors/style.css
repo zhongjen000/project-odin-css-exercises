@@ -6,10 +6,10 @@
   }
 
 .adjust-font-size {
-    font: 36px;
+    font-size: 24px;
 }
 
 #second {
     color:blue;
-    font: 36px;
+    font-size: 36px;
 }
