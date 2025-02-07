@@ -1,0 +1,15 @@
+/* styles.css */
+
+.odd {
+    background-color: rgb(255, 182, 193);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+  }
+
+.adjust-font-size {
+    font: 36px;
+}
+
+#second {
+    color:blue;
+    font: 36px;
+}
